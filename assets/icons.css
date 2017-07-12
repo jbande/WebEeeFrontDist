@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"EEE Icons";
-	src:url("fonts/EEE-Icons.eot?06f86896a1c0dcab84f7c5098a6a22bd");
+	src:url("fonts/EEE-Icons.eot?0607cc5be38c15a58ec10c7fc131b31c");
 	src:url("fonts/EEE-Icons.eot?#iefix") format("embedded-opentype"),
-		url("fonts/EEE-Icons.woff?06f86896a1c0dcab84f7c5098a6a22bd") format("woff"),
-		url("fonts/EEE-Icons.ttf?06f86896a1c0dcab84f7c5098a6a22bd") format("truetype");
+		url("fonts/EEE-Icons.woff?0607cc5be38c15a58ec10c7fc131b31c") format("woff"),
+		url("fonts/EEE-Icons.ttf?0607cc5be38c15a58ec10c7fc131b31c") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -52,66 +52,71 @@
 }
 
 
-.i-back:before {
+.i-Youtube:before {
 	content:"\f105";
 }
 
 
-.i-cart:before {
+.i-back:before {
 	content:"\f106";
 }
 
 
-.i-close:before {
+.i-cart:before {
 	content:"\f107";
 }
 
 
-.i-down:before {
+.i-close:before {
 	content:"\f108";
 }
 
 
-.i-mouse:before {
+.i-down:before {
 	content:"\f109";
 }
 
 
-.i-next:before {
+.i-mouse:before {
 	content:"\f10a";
 }
 
 
-.i-overflow:before {
+.i-next:before {
 	content:"\f10b";
 }
 
 
-.i-pause:before {
+.i-overflow:before {
 	content:"\f10c";
 }
 
 
-.i-play:before {
+.i-pause:before {
 	content:"\f10d";
 }
 
 
-.i-search:before {
+.i-play:before {
 	content:"\f10e";
 }
 
 
-.i-stop:before {
+.i-search:before {
 	content:"\f10f";
 }
 
 
-.i-trash:before {
+.i-stop:before {
 	content:"\f110";
 }
 
 
-.i-up:before {
+.i-trash:before {
 	content:"\f111";
+}
+
+
+.i-up:before {
+	content:"\f112";
 }
